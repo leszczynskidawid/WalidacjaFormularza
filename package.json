@@ -17,6 +17,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://leszczynskidawid.github.com/AppPofodowa",
   "eslintConfig": {
     "extends": [
       "react-app",
