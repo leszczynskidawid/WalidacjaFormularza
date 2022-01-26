@@ -79,6 +79,7 @@ form input {
   padding: 0.8rem 1rem;
   margin-bottom: 0.8rem;
   font-size: 1.1rem;
+  margin: 2rem;
 }
 
 form input:focus {
@@ -92,7 +93,12 @@ form .login {
   padding: 0.8rem 1rem;
   border-radius: 0.4rem;
   font-size: 1.1rem;
+  margin:2rem;
   color: #fff;
+}
+p {
+  color:red; 
+
 }
 
 form .login:hover {
